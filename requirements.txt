@@ -1,0 +1,4 @@
+python3==3.9.13
+python-dotenv==0.20.0
+pyperclip==1.8.2
+pandas==1.4.3
