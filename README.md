@@ -1,5 +1,6 @@
 # Password Manager
-[Logo]('./logo.png')
+
+<img src='./logo.png' alt='Padlock logo'>
 
 Password manager and generator build with Python, Tkinter & Pandas.
 
